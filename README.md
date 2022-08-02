@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-yadav0786" alt="krishna-yadav0786" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> https://api.daily.dev/devcards/1778f724be2549108d3116516db65985.png?r=xpl </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
